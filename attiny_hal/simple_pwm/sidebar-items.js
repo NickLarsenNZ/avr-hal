@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Timer0Pwm","Use `TC0` for PWM (pins `PB0`, `PB1`)"],["Timer1Pwm","Use `TC1` for PWM (pins `PB4`)"]]});

@@ -1,0 +1,4 @@
+(function() {var implementors = {};
+implementors["atmega_hal"] = [{"text":"impl PwmPinOps&lt;Timer0Pwm&gt; for PD6","synthetic":false,"types":[]},{"text":"impl PwmPinOps&lt;Timer0Pwm&gt; for PD5","synthetic":false,"types":[]},{"text":"impl PwmPinOps&lt;Timer1Pwm&gt; for PB1","synthetic":false,"types":[]},{"text":"impl PwmPinOps&lt;Timer1Pwm&gt; for PB2","synthetic":false,"types":[]},{"text":"impl PwmPinOps&lt;Timer2Pwm&gt; for PB3","synthetic":false,"types":[]},{"text":"impl PwmPinOps&lt;Timer2Pwm&gt; for PD3","synthetic":false,"types":[]}];
+implementors["attiny_hal"] = [{"text":"impl PwmPinOps&lt;Timer0Pwm&gt; for PB0","synthetic":false,"types":[]},{"text":"impl PwmPinOps&lt;Timer0Pwm&gt; for PB1","synthetic":false,"types":[]},{"text":"impl PwmPinOps&lt;Timer1Pwm&gt; for PB4","synthetic":false,"types":[]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
